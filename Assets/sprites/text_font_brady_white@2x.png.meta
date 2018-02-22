@@ -1,0 +1,1552 @@
+fileFormatVersion: 2
+guid: 7a820afc529f34f4f84b4f0c2edaec4e
+timeCreated: 1518964944
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: a
+    21300002: b
+    21300004: c
+    21300006: d
+    21300008: e
+    21300010: f
+    21300012: g
+    21300014: h
+    21300016: i
+    21300018: j
+    21300020: k
+    21300022: l
+    21300024: m
+    21300026: n
+    21300028: o
+    21300030: p
+    21300032: q
+    21300034: r
+    21300036: s
+    21300038: t
+    21300040: u
+    21300042: v
+    21300044: w
+    21300046: x
+    21300048: y
+    21300050: z
+    21300052: text_font_brady_white@2x_26
+    21300054: text_font_brady_white@2x_27
+    21300056: text_font_brady_white@2x_28
+    21300058: text_font_brady_white@2x_29
+    21300060: text_font_brady_white@2x_30
+    21300062: text_font_brady_white@2x_31
+    21300064: text_font_brady_white@2x_32
+    21300066: text_font_brady_white@2x_33
+    21300068: text_font_brady_white@2x_34
+    21300070: text_font_brady_white@2x_35
+    21300072: text_font_brady_white@2x_36
+    21300074: text_font_brady_white@2x_37
+    21300076: text_font_brady_white@2x_38
+    21300078: text_font_brady_white@2x_39
+    21300080: text_font_brady_white@2x_40
+    21300082: text_font_brady_white@2x_41
+    21300084: text_font_brady_white@2x_42
+    21300086: text_font_brady_white@2x_43
+    21300088: text_font_brady_white@2x_44
+    21300090: text_font_brady_white@2x_45
+    21300092: text_font_brady_white@2x_46
+    21300094: text_font_brady_white@2x_47
+    21300096: text_font_brady_white@2x_48
+    21300098: text_font_brady_white@2x_49
+    21300100: text_font_brady_white@2x_50
+    21300102: text_font_brady_white@2x_51
+    21300104: NUM0
+    21300106: NUM1
+    21300108: NUM2
+    21300110: NUM3
+    21300112: NUM4
+    21300114: NUM5
+    21300116: NUM6
+    21300118: NUM7
+    21300120: NUM8
+    21300122: NUM9
+    21300124: text_font_brady_white@2x_62
+    21300126: text_font_brady_white@2x_63
+    21300128: text_font_brady_white@2x_64
+    21300130: text_font_brady_white@2x_65
+    21300132: text_font_brady_white@2x_66
+    21300134: text_font_brady_white@2x_67
+    21300136: text_font_brady_white@2x_68
+    21300138: text_font_brady_white@2x_69
+    21300140: text_font_brady_white@2x_70
+    21300142: text_font_brady_white@2x_71
+    21300144: text_font_brady_white@2x_72
+    21300146: text_font_brady_white@2x_73
+    21300148: text_font_brady_white@2x_74
+    21300150: text_font_brady_white@2x_75
+    21300152: text_font_brady_white@2x_76
+    21300154: text_font_brady_white@2x_77
+    21300156: text_font_brady_white@2x_78
+    21300158: text_font_brady_white@2x_79
+    21300160: text_font_brady_white@2x_80
+    21300162: text_font_brady_white@2x_81
+    21300164: text_font_brady_white@2x_82
+    21300166: text_font_brady_white@2x_83
+    21300168: text_font_brady_white@2x_84
+    21300170: text_font_brady_white@2x_85
+    21300172: text_font_brady_white@2x_86
+    21300174: text_font_brady_white@2x_87
+    21300176: text_font_brady_white@2x_88
+    21300178: text_font_brady_white@2x_89
+    21300180: text_font_brady_white@2x_90
+    21300182: text_font_brady_white@2x_91
+    21300184: text_font_brady_white@2x_92
+    21300186: text_font_brady_white@2x_93
+    21300188: text_font_brady_white@2x_94
+    21300190: text_font_brady_white@2x_95
+    21300192: text_font_brady_white@2x_96
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: c
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: d
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: f
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: g
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: h
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: i
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: j
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: k
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: l
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: m
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: n
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: o
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: p
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: q
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: r
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: s
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: t
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: u
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: v
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 797
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: w
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: x
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 796.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: y
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 597.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: z
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 597.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_30
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_31
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_33
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_34
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_35
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_36
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_37
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_38
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_39
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_40
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_41
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_42
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_43
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_44
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_45
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_46
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_47
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_48
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_49
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 398.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NUM0
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NUM1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NUM2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NUM3
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NUM4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NUM5
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NUM6
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NUM7
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NUM8
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NUM9
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_62
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_63
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_64
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_65
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_66
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_67
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_68
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_69
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_70
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_71
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_72
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_73
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 199.8
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_75
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_76
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_77
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_78
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_79
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_80
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_81
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_82
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_83
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_84
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_85
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_86
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_87
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_88
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_89
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_90
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_91
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_92
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_93
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_94
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_95
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text_font_brady_white@2x_96
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 0.80000305
+        width: 200.33333
+        height: 199.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

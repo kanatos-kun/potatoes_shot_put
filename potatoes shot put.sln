@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "potatoes shot put", "potatoes shot put.csproj", "{43DC0D8E-E58C-A79E-3E81-88ABAFB642AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43DC0D8E-E58C-A79E-3E81-88ABAFB642AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43DC0D8E-E58C-A79E-3E81-88ABAFB642AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43DC0D8E-E58C-A79E-3E81-88ABAFB642AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43DC0D8E-E58C-A79E-3E81-88ABAFB642AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
