@@ -290,6 +290,7 @@
     <Compile Include="Assets\scripts\fickleText.cs" />
     <Compile Include="Assets\scripts\fontUse.cs" />
     <Compile Include="Assets\scripts\heroScript.cs" />
+    <Compile Include="Assets\scripts\MenuScreenUI.cs" />
     <Compile Include="Assets\scripts\moveAroundMouse.cs" />
     <Compile Include="Assets\scripts\RetryButtonScene.cs" />
   </ItemGroup>

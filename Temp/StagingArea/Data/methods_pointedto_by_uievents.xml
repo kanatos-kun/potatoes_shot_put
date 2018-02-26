@@ -1,0 +1,14 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="MenuScreenUI">
+			<method name="checkPanel"/>
+			<method name="checkPanel"/>
+			<method name="startGame"/>
+			<method name="checkPanel"/>
+			<method name="checkPanel"/>
+		</type>
+		<type fullname="RetryButtonScene">
+			<method name="changeScene"/>
+		</type>
+	</assembly>
+</linker>

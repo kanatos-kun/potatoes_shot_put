@@ -44,7 +44,7 @@ public class heroScript : MonoBehaviour {
     IEnumerator waitForSecond()
     {
         yield return new WaitForSeconds(.1f);
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetKeyDown(KeyCode.R))
         {
             new WaitForSeconds(.1f);
             heroState = 2;
@@ -113,7 +113,7 @@ public class heroScript : MonoBehaviour {
             Text child = windowScore.GetComponentInChildren<Text>();
             if (ball.isCollided)
             {
-                float coef = Vector3.Distance(cam.transform.position, transform.position) * 1.205f;
+                float coef = Vector3.Distance(cam.transform.position, transform.position) * 1.240f - 7;// * 1.205f;
                 child.text = "distance : " + (int)coef + " m";
             }
             else
